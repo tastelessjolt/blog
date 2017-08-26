@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Music, Japanese, Anime, Tech
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+CSE 3rd UG at IIT Bombay
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[harshith9399@gmail.com](mailto:harshith9399@gmail.com)

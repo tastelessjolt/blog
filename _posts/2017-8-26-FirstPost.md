@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Android Oreo!
+date: 2017-08-26
 ---
 
 Finally writing a blog! I'm writing this so that I don't forget things I'll learn and be as a reminder for me not to procrastinate.
